@@ -1,15 +1,16 @@
-# Desafio de Construção de uma SPA em Angular 
+# Projeto realizado no Bootcamp Avanade Angular Developer pela Digital Innovation One
 
-- Este projeto é requisito necessário para conclusão do bootcamp Aceleração Global Dev#2 da Digital Innovation One (https://digitalinnovation.one/). 
+- Este projeto é requisito necessário para conclusão do bootcamp Digital Innovation One (https://digitalinnovation.one/).
 
-- Nele fomos desafiados a construir uma Single Page Application em Angular 2.
+- Nele fomos desafiados a construir uma Single Page Application em Angular.
 
-- Este projeto implementa um Gerenciador Financeiro capaz de armazenar e editar o histórico 
-financeiro de um usuario 
+- Este projeto implementa um Gerenciador Financeiro capaz de armazenar e editar o histórico financeiro de um usuario 
+
+- Esse projeto possui modificações e atualizações realizadas e que ainda serão implementadas. 
 
 #  Dependência: 
 
-Baixar o código do Github 
+Baixar o código no Github do Projeto 
 ```
 git clone https://github.com/luizrosalba/spa-angular-desafio-DIO.git
 ```
